@@ -1,7 +1,5 @@
 # DeadCatEngine
-A scuff game engine made for APCS in high school.
-Will it work? probly. Will it work well? probly not.
+A "game engine" made for APCS in high school.
 
-It is written in java 8 and is essentially a wrapper for javafx.
-
- It has been updated and fiddled with since.
+The engine is written for java 8 and essentially wraps javafx
+This version has been updated since high school.
